@@ -47,7 +47,8 @@ const generateHTML = (title, description, imageUrl, url) => (
             <meta property="og:title" content="${title} | Sungkwang">
             <meta property="og:description" content="${description}">
             <meta property="og:site_name" content="Sungkwang">
-            <meta property="og:image" content="${imageUrl}">
+            <meta property="og:image" content="https://cdn.midjourney.com/23927236-ebdb-4ac0-bef0-f8ca056d2e83/0_2.png">
+<!--            <meta property="og:image" content="${imageUrl}">-->
             <meta name="twitter:card" content="summary">
             <meta name="twitter:url" content="${url}">
             <meta name="twitter:title" content="${title}">
